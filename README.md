@@ -24,6 +24,7 @@ Flags and parameter settings as well as predictions will be saved together with 
 
 ## Parameters
 </br>
+
 ```main.py``` can be run with the following flags:
 
 
@@ -50,6 +51,7 @@ Inside ```main.py``` the following parameter can be set:
 Example run over 50 epochs can be seen below with a end result of 72%, and parameters:
 
 ```hiddens: [1000,500,32]```, ```batch_size: 32```, ```learning_rate: 0.00025```, ```l2_regulator: 0.01```, ```drop_out: 0.5```
+
 
 <img src="images/train.png", width="33%"/> <img src="images/loss.png", width="33%"/> <img src="images/test.png", width="33%"/> 
 
