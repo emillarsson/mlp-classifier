@@ -53,9 +53,9 @@ Example run over 50 epochs can be seen below with a end result of 72%, and param
 ```hiddens: [1000,500,32]```, ```batch_size: 32```, ```learning_rate: 0.00025```, ```l2_regulator: 0.01```, ```drop_out: 0.5```
 
 <p align="center">
-	<img src="images/train.png", width="33%"/> 
-	<img src="images/loss.png", width="33%"/> 
-	<img src="images/test.png", width="33%"/> 
+	<img src="images/train.png", width="32%"/> 
+	<img src="images/loss.png", width="32%"/> 
+	<img src="images/test.png", width="32%"/> 
 </p>
 
 Best results gave a 76.1% score, which was top 20.
